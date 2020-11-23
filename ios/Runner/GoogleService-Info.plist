@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>756224956904-suj1k6lo5nh0gfobkoh3evo3pji7s6m7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.756224956904-suj1k6lo5nh0gfobkoh3evo3pji7s6m7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCPxnAe7M-41_FizOG67UKFWJ6vWQufF1M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>756224956904</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tripleting.saveToDonate</string>
+	<key>PROJECT_ID</key>
+	<string>savetdonate</string>
+	<key>STORAGE_BUCKET</key>
+	<string>savetdonate.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:756224956904:ios:309c8c91ba2f1e31736c5d</string>
+	<key>DATABASE_URL</key>
+	<string>https://savetdonate.firebaseio.com</string>
+</dict>
+</plist>
